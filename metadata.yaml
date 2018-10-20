@@ -1,5 +1,5 @@
 _repo: The-Inns-and-Taverns-of-Pickwick-With-Some-Observations-on-Their-Other-Associations_5204
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Taverns (Inns) -- England'
 - !lcsh 'Dickens, Charles, 1812-1870. Pickwick papers'
 - !lcc 'PR'
+- GITenberg
 title: "The Inns and Taverns of \"Pickwick\"\r\nWith Some Observations on Their Other\
   \ Associations"
 url: http://www.gutenberg.org/ebooks/5204
